@@ -1,8 +1,5 @@
 # Exec Input Plugin
 
-Please find additional information regarding Telegraf Data Formats [here](https://github.com/influxdata/telegraf/blob/master/docs/DATA_FORMATS_INPUT.md).
-
-
 The exec input plugin can execute arbitrary commands which output:
 
 * JSON [javascript object notation](http://www.json.org/)
